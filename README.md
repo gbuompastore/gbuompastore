@@ -8,7 +8,7 @@ I enjoy developing software, exploring new technologies, and applying practical 
 
 ## 💻 Technical Skills
 
-- **Programming Languages:** Java, Python, C, C++, SQL, Assembly (x86)
+- **Programming Languages:** Java, Python, C, C++, SQL
 - **Software Development:** Object-Oriented Programming, Algorithms, Data Structures
 - **Data Science & AI:** Data Analysis, Machine Learning, Data Visualization
 - **Networking:** TCP/IP, Routing, Switching, Network Configuration, Cisco Packet Tracer
