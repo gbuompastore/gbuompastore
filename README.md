@@ -1,16 +1,22 @@
-## Hi there 👋
+## 🎓 Education & Qualifications
 
-<!--
-**gbuompastore/gbuompastore** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- **M.Sc. in Computer Engineering (LM-32)**  
+  International Telematic University UNINETTUNO
 
-Here are some ideas to get you started:
+- **B.Sc. in Computer Engineering (L-8)**  
+  University of Siena
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Second-Level University Master's Degree in Data Science and Artificial Intelligence** *(In Progress)*  
+  Polytechnic University of Bari
+
+- **First-Level University Master's Degree in Data Analytics**  
+  Roma Tre University
+
+- **Teaching Qualification – Computer Science and Information Technology (A041)**  
+  University of Bari Aldo Moro
+
+## 📜 Certifications
+
+- Cisco Networking Academy Instructor
+- Cambridge English B2
+- Professional Engineer Licence
